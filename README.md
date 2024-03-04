@@ -19,7 +19,7 @@
 ## Project   
   
 
-- Working on MarksPrediction Machine Learning Project  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTcwYmN5MGgzcjMyaHR1djVpMXZlb3liMDZiNHc3cTV0dzQwYm93YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/w89ak63KNl0nJl80ig/200.webp" width="55"></h2>
+- Working on MarksPrediction Machine Learning Project  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTcwYmN5MGgzcjMyaHR1djVpMXZlb3liMDZiNHc3cTV0dzQwYm93YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/w89ak63KNl0nJl80ig/200.webp" width="55">
 
 ## For Connection
 
