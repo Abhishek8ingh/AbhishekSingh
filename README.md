@@ -22,9 +22,12 @@
 
 [<img align="left" alt="Abhishek Singh| LinkedIn" width="50px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
 [<img align="left" alt="Abhishek Singh | Twitter" width="50px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][Twitter]
-[<img align="left" alt="Abhishek Singh | Mail" width="50px" src="https://img.icons8.com/fluent/48/000000/gmail.png" />][Mail]
+[<img align="left" alt="Abhishek Singh | Gmail" width="50px" src="https://img.icons8.com/fluent/48/000000/gmail.png" />][Gmail]
+[<img align="left" alt="Abhishek Singh | GitHub" width="50px" src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_1280.png" />][GitHub]
+
 
 [linkedin]: https://www.linkedin.com/in/abhishek8ingh
-[Mail]: https://mail.google.com/mail/u/0/?view=cm&fs=1&to=abhisheksinghmailid@gmail.com&su=SUBJECT&body=BODY&tf=1
+[Gmail]: https://mail.google.com/mail/u/0/?view=cm&fs=1&to=abhisheksinghmailid@gmail.com&su=SUBJECT&body=BODY&tf=1
 
 [Twitter]: https://twitter.com/Abhishek8ingh
+[GitHub]: https://github.com/Abhishek8ingh
