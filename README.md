@@ -25,6 +25,6 @@
 [<img align="left" alt="Abhishek Singh | Mail" width="50px" src="https://img.icons8.com/fluent/48/000000/gmail.png" />][Mail]
 
 [linkedin]: https://www.linkedin.com/in/abhishek8ingh
-[Mail]: https://mail.google.com/mail/u/0/?view=cm&fs=1&to=abhisheksinghmailid@gmail.com.com&su=SUBJECT&body=BODY&tf=1
+[Mail]: https://mail.google.com/mail/u/0/?view=cm&fs=1&to=abhisheksinghmailid@gmail.com&su=SUBJECT&body=BODY&tf=1
 
 [Twitter]: https://twitter.com/Abhishek8ingh
